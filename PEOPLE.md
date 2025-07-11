@@ -1,2 +1,2 @@
-Haskell Curry
- and his friend Barry
+Haskell Curry and his friend Josh
+And me - Oleg
