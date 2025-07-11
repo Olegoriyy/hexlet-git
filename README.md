@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you?
+NO PAIN NO GAIN
